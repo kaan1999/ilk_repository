@@ -1,2 +1,3 @@
 # ilk_repository
-- Deneme yapıyorum.
+- Git & Github kursu ilk repository.
+- Git ve Github öğreniyorum.
